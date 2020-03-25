@@ -1,4 +1,4 @@
-# Sounds By LuCiFeR_ash
+# Sounds By Arsh Anwar
 This module will put all media sounds  to /system/media/audio
 
 ## Compatibility
