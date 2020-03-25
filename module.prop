@@ -1,0 +1,7 @@
+id=soundsport
+name=Sounds Port
+version=v.1.2.01
+versionCode=1201
+author=LuCiFeR_ash
+description=This module will put all media sounds to /System/media
+minMagisk=1530
