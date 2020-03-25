@@ -3,7 +3,7 @@ This module will put all media sounds  to /system/media/audio
 
 ## Compatibility
 * Android Lollipop+
-* All root solutions (requires init.d support for boot scripts if not using magisk or supersu.
+* All root solutions (requires init.d support for boot scripts if not using magisk or supersu).
 
 ## Changelog
 **1.2.01**
